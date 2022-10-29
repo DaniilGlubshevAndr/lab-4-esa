@@ -1,1 +1,0 @@
-void openMainPage(void);
